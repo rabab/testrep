@@ -1,5 +1,4 @@
 class Case:
-meteo=None
-test=test
+meteo =None
 def AfficheToi(self):
 raise NotImplementedError()
